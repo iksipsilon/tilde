@@ -1,0 +1,9 @@
+[user]
+	name = iksipsilon
+	email = kelamahim@gmail.com
+[credential]
+	helper = store
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
