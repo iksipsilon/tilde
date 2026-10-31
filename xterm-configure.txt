@@ -1,0 +1,54 @@
+.Xdefaults and .Xresources are exactly the same and contain only these lines:
+
+  1 xterm*background: black
+  2
+  3 xterm*faceName: OCRA
+  4 xterm*faceSize: 18
+  5 xterm*renderFont: true
+  6
+  7 *customization: -color
+  8 XTerm*termName: xterm-256color
+
+
+
+
+
+
+
+
+
+# this is a copy of afile ofhow I supposedly did it.
+
+https://www.futurile.net/2016/06/14/xterm-setup-and-truetype-font-configuration/
+
+sudo apt-get install fonts-ocr-a
+
+fc-list :scalable=true:spacing=mono: family
+
+xterm -fa "OCRA" -fs 18
+
+
+Set-up in ~/.Xresources
+
+Note, that you can set this up as either XTerm*faceName if you want any application that uses that X class to use the setting, or xterm*faceName which is the instance of XTerm.
+
+xterm*faceName: OCRA
+xterm*faceSize: 18
+xterm*renderFont: true
+
+
+Merge .Xresources and check
+
+Merge and then to double check use appres or xrdb -query
+
+$ xrdb -merge .Xresources
+$ xterm &
+# change into the xterminal and from there do
+$ appres XTerm xterm
+
+xterm*background: Black
+xterm*faceName: Ubuntu Mono
+xterm*faceSize: 12
+xterm*foreground: grey
+
+
