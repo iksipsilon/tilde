@@ -8,3 +8,4 @@ set number
 
 set tabstop=4
 
+nnoremap <C-Q> <C-V>    " to map Ctrl+Q to Visual Block mode

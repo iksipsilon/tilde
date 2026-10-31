@@ -1,13 +1,13 @@
 .Xdefaults and .Xresources are exactly the same and contain only these lines:
 
-  1 xterm*background: black
-  2
-  3 xterm*faceName: OCRA
-  4 xterm*faceSize: 18
-  5 xterm*renderFont: true
-  6
-  7 *customization: -color
-  8 XTerm*termName: xterm-256color
+  xterm*background: black
+  
+  xterm*faceName: OCRA
+  xterm*faceSize: 18
+  xterm*renderFont: true
+  
+  *customization: -color
+  XTerm*termName: xterm-256color
 
 
 
