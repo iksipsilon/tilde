@@ -1,0 +1,6 @@
+mv ~/.bashrc ~/dotfiles/.bashrc
+ln -s ~/.bashrc ~/dotfiles/.bashrc
+
+# dont forget to use absolute paths as above
+# ln -s TARGET LINK_NAME
+# TARGET is what the link points to, and LINK_NAME is the new link being created. 
