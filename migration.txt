@@ -1,7 +1,11 @@
 # For setting up a new machine later, the usual approach is to clone the repo and symlink the files into ~:
 
-git clone https://github.com/iksipsilon/tilde.git ~/tilde
-ln -sf ~/tilde/.bashrc ~/.bashrc
-ln -sf ~/tilde/.bash_aliases ~/.bash_aliases
-ln -sf ~/tilde/.vimrc ~/.vimrc
-ln -sf ~/tilde/.gitconfig ~/.gitconfig
+git clone https://github.com/iksipsilon/tilde.git ~/code/tilde
+ln -sf ~/code/tilde/.bashrc ~/.bashrc
+ln -sf ~/code/tilde/.bash_aliases ~/.bash_aliases
+ln -sf ~/code/tilde/.vimrc ~/.vimrc
+ln -sf ~/code/tilde/.gitconfig ~/.gitconfig
+
+# for doublecmd
+
+ln -s ~/code/tilde/doublecmd ~/.config/doublecmd
