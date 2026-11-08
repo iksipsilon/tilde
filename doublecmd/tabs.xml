@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="usr">/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="kelamahim">/home/</Path>
+                  <Path Filename="code">/home/kelamahim/</Path>
+                  <Path Filename="configurations">/home/kelamahim/code/</Path>
+                  <Path Filename="..">/home/kelamahim/code/configurations/</Path>
+                  <Path Filename="..">/home/kelamahim/code/</Path>
+                  <Path Filename=".config">/home/kelamahim/</Path>
+                  <Path Filename="git">/home/kelamahim/.config/</Path>
+                  <Path Filename="..">/home/kelamahim/.config/git/</Path>
+                  <Path Filename="doublecmd">/home/kelamahim/.config/</Path>
+                  <Path Filename="..">/home/kelamahim/.config/doublecmd/</Path>
+                  <Path Filename="..">/home/kelamahim/.config/</Path>
+                  <Path Filename=".vim">/home/kelamahim/</Path>
+                  <Path Filename="..">/home/kelamahim/.vim/</Path>
+                  <Path Filename=".config">/home/kelamahim/</Path>
+                  <Path Filename="doublecmd">/home/kelamahim/.config/</Path>
+                  <Path Filename="..">/home/kelamahim/.config/doublecmd/</Path>
+                  <Path Filename="..">/home/kelamahim/.config/</Path>
+                  <Path Filename=".vim">/home/kelamahim/</Path>
+                  <Path Filename="..">/home/kelamahim/.vim/</Path>
+                  <Path Filename=".vim">/home/kelamahim/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="kelamahim">/home/</Path>
+                  <Path Filename="code">/home/kelamahim/</Path>
+                  <Path Filename="tilde">/home/kelamahim/code/</Path>
+                  <Path Filename=".git">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/.git/</Path>
+                  <Path Filename="doublecmd">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/doublecmd/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="tilde">/home/kelamahim/code/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="tilde">/home/kelamahim/code/</Path>
+                  <Path Filename=".git">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="branches">/home/kelamahim/code/tilde/.git/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/.git/branches/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/.git/</Path>
+                  <Path Filename="soft-links.txt">/home/kelamahim/code/tilde/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>
