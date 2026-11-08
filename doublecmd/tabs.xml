@@ -41,7 +41,22 @@
                   <Path Filename="..">/home/kelamahim/.config/</Path>
                   <Path Filename=".vim">/home/kelamahim/</Path>
                   <Path Filename="..">/home/kelamahim/.vim/</Path>
-                  <Path Filename=".vim">/home/kelamahim/</Path>
+                  <Path Filename="..">/home/kelamahim/</Path>
+                  <Path Filename="kelamahim">/home/</Path>
+                  <Path Filename="code">/home/kelamahim/</Path>
+                  <Path Filename="configurations">/home/kelamahim/code/</Path>
+                  <Path Filename="..">/home/kelamahim/code/configurations/</Path>
+                  <Path Filename="..">/home/kelamahim/code/</Path>
+                  <Path Filename="code">/home/kelamahim/</Path>
+                  <Path Filename="forth">/home/kelamahim/code/</Path>
+                  <Path Filename="fotrh">/home/kelamahim/code/forth/</Path>
+                  <Path Filename="..">/home/kelamahim/code/forth/fotrh/</Path>
+                  <Path Filename="fotrh">/home/kelamahim/code/forth/</Path>
+                  <Path Filename="..">/home/kelamahim/code/forth/fotrh/</Path>
+                  <Path Filename="experimental">/home/kelamahim/code/forth/</Path>
+                  <Path Filename="..">/home/kelamahim/code/forth/experimental/</Path>
+                  <Path Filename="experimental">/home/kelamahim/code/forth/</Path>
+                  <Path Filename="experimental.s">/home/kelamahim/code/forth/experimental/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -57,7 +72,7 @@
           <FileView Type="columns">
             <Sortings>
               <Sorting>
-                <Direction>1</Direction>
+                <Direction>2</Direction>
                 <Function>12</Function>
               </Sorting>
             </Sortings>
@@ -84,7 +99,35 @@
                   <Path Filename="branches">/home/kelamahim/code/tilde/.git/</Path>
                   <Path Filename="..">/home/kelamahim/code/tilde/.git/branches/</Path>
                   <Path Filename="..">/home/kelamahim/code/tilde/.git/</Path>
-                  <Path Filename="soft-links.txt">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="..">/home/kelamahim/code/tilde/</Path>
+                  <Path Filename="..">/home/kelamahim/code/</Path>
+                  <Path Filename="code">/home/kelamahim/</Path>
+                  <Path Filename="forth">/home/kelamahim/code/</Path>
+                  <Path Filename="..">/mnt/c/</Path>
+                  <Path Filename="..">/usr/lib/linux-tools/6.18.54.1-microsoft-standard-WSL2/</Path>
+                  <Path Filename="..">/usr/lib/modules/6.18.54.1-microsoft-standard-WSL2/</Path>
+                  <Path Filename="..">/mnt/wslg/distro/</Path>
+                  <Path Filename="Users">/mnt/c/</Path>
+                  <Path Filename="Roni">/mnt/c/Users/</Path>
+                  <Path Filename="Documents">/mnt/c/Users/Roni/</Path>
+                  <Path Filename="My Pictures">/mnt/c/Users/Roni/Documents/</Path>
+                  <Path Filename="DSC00211.ARW">/mnt/c/Users/Roni/Documents/My Pictures/</Path>
+                  <Path Filename="">/mnt/c/</Path>
+                  <Path Filename="..">/usr/lib/linux-tools/6.18.54.1-microsoft-standard-WSL2/</Path>
+                  <Path Filename="..">/usr/lib/linux-tools/</Path>
+                  <Path Filename="..">/usr/lib/</Path>
+                  <Path Filename="..">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="kelamahim">/home/</Path>
+                  <Path Filename="0Telefon">/home/kelamahim/</Path>
+                  <Path Filename="serial-communication">/home/kelamahim/0Telefon/</Path>
+                  <Path Filename="..">/home/kelamahim/0Telefon/serial-communication/</Path>
+                  <Path Filename="CH32V00X">/home/kelamahim/0Telefon/</Path>
+                  <Path Filename="..">/home/kelamahim/0Telefon/CH32V00X/</Path>
+                  <Path Filename="2Output">/home/kelamahim/0Telefon/</Path>
+                  <Path Filename="..">/home/kelamahim/0Telefon/2Output/</Path>
+                  <Path Filename="2Output">/home/kelamahim/0Telefon/</Path>
+                  <Path Filename="Windows">/mnt/c/</Path>
                 </Paths>
               </Entry>
             </History>

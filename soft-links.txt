@@ -1,6 +1,23 @@
 mv ~/.bashrc ~/dotfiles/.bashrc
-ln -s ~/.bashrc ~/dotfiles/.bashrc
+ln -s ~/dotfiles/.bashrc ~/.bashrc 
 
 # dont forget to use absolute paths as above
 # ln -s TARGET LINK_NAME
 # TARGET is what the link points to, and LINK_NAME is the new link being created. 
+# the original files need to be in the repo, since git doesn't trace symlinks, 
+# just the paths they are linked to.
+
+# If you already have a link in the repo, then:
+
+cd ~/code/tilde							# name of the directory repo
+rm .bashrc                       		# remove the link in the repo
+mv ~/.bashrc ~/code/tilde/.bashrc		
+ln -s ~/code/tilde/.bashrc ~/.bashrc
+
+
+Don't put slashes at the end of directories when making the links:
+
+kelamahim:~/code/tilde$ ln -s ~/code/tilde/doublecmd/ ~/.config/doublecmd/
+ln: failed to create symbolic link '/home/kelamahim/.config/doublecmd/': No such file or directory
+kelamahim:~/code/tilde$ ln -s ~/code/tilde/doublecmd ~/.config/doublecmd
+kelamahim:~/code/tilde$

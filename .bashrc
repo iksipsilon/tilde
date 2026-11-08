@@ -132,3 +132,5 @@ export PATH="$HOME/.cargo/bin:$PATH"
 
 # I added this :)
 date '+%A, %d %B %Y, %H:%M:%S'
+
+xrdb -merge ~/.Xresources

@@ -1,4 +1,4 @@
-xterm*background: black
+! xterm*background: black
 
 xterm*faceName: OCRA
 xterm*faceSize: 18
@@ -6,3 +6,28 @@ xterm*renderFont: true
 
 *customization: -color
 XTerm*termName: xterm-256color
+
+xterm*foreground: #CCCCCC
+xterm*background: #0C0C0C
+
+xterm*color0:  #0C0C0C
+xterm*color1:  #C50F1F
+xterm*color2:  #13A10E
+xterm*color3:  #C19C00
+xterm*color4:  #0037DA
+! The real Campbell blue (color4:)is 0037DA, which is very dark on black.
+! You can chage it to #3B78FF 
+xterm*color5:  #881798
+xterm*color6:  #3A96DD
+xterm*color7:  #CCCCCC
+xterm*color8:  #767676
+xterm*color9:  #E74856
+xterm*color10: #16C60C
+xterm*color11: #F9F1A5
+xterm*color12: #3B78FF
+xterm*color13: #B4009E
+xterm*color14: #61D6D6
+xterm*color15: #F2F2F2
+
+! start xterm fullscreen
+xterm*fullscreen: true
