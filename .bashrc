@@ -1,7 +1,4 @@
-set -o vi
 
-# make an alias so that you can open pdf files like so: $pdf filename.pdf
-pdf() { wslview "$(wslpath -w "$1")"; }
 
 
 
@@ -130,7 +127,15 @@ export PATH=~/.npm-global/bin:$PATH
 export PATH="$HOME/.cargo/bin:$PATH"
 
 
-# I added this :)
+# I added these :)
+ 
 date '+%A, %d %B %Y, %H:%M:%S'
 
 xrdb -merge ~/.Xresources
+
+set -o vi
+
+# make an alias so that you can open pdf files like so: $pdf filename.pdf
+pdf() { wslview "$(wslpath -w "$1")"; }
+
+

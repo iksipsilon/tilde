@@ -29,5 +29,28 @@ xterm*color13: #B4009E
 xterm*color14: #61D6D6
 xterm*color15: #F2F2F2
 
+!Windows Terminal	xterm resource
+
+!background			xterm*background
+!foreground			xterm*foreground
+!black				xterm*color0
+!red				xterm*color1
+!green				xterm*color2
+!yellow				xterm*color3
+!blue				xterm*color4
+!purple				xterm*color5
+!cyan				xterm*color6
+!white				xterm*color7
+!brightBlack		xterm*color8
+!brightRed			xterm*color9
+!brightGreen		xterm*color10
+!brightYellow		xterm*color11
+!brightBlue			xterm*color12
+!brightPurple		xterm*color13
+!brightCyan			xterm*color14
+!brightWhite		xterm*color15
+
+
 ! start xterm fullscreen
 xterm*fullscreen: true
+
